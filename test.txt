@@ -1,3 +1,2 @@
 test file
 
-a b c d e f
